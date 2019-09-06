@@ -1,6 +1,6 @@
 # Image Retargetting
 
-Uses dynamic programming to calculate mininmum edge energy path in the image from one edge to the opposite edge. This edge is then removed to obtain a resized image with minimal perceptual loss of information.
+Uses dynamic programming to calculate minimum edge energy path (seam) in the image from one edge to the opposite edge. This seam is then removed to obtain a resized image with minimal perceptual loss of information.
 
 ### Parameters
 
