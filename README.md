@@ -14,6 +14,8 @@ USE_MASK (bool) - choice use mask image
 
 `python run_retarget.py ROOT_DIR IMAGE_NAME IMAGE_MASK SEAM_TYPE USE_MASK`
 
+### Results
+
 ![ScreenShot](/images/image_06.jpg "Original Image")     ![alt text](/images/image_06_with_mask.jpg "Retargetted Image")  
 <pre>
                   Fig.1 - Vertical Seam Removal (Left - Original Image, Right - Retargetted Image) </pre>
