@@ -1,4 +1,5 @@
 import cv2
+import numpy as np
 import matplotlib.pyplot as mp_plt
 
 def load_image(SOURCE_IMG, MASK_IMG, ROOT_DIR, kwargs):
